@@ -1,4 +1,5 @@
 # CSVtoXML
+A Command Line Interface that adapting Pascal-voc-writer.
 generate XML file for each jpg picture base on CSV file. 
 
 
