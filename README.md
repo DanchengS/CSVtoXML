@@ -1,5 +1,5 @@
 # CSVtoXML
-A Command Line Interface that adapting Pascal-voc-writer.
+A Command Line Interface that adapting Pascal-voc-writer.  
 generate XML file for each jpg picture base on CSV file. 
 
 
@@ -8,10 +8,10 @@ generate XML file for each jpg picture base on CSV file.
 $ python ./CSVtoXML/CSVtoXML.py convert CSVFILEPATH PICFOLDERPATH XMLFOLDERPATH
 ```
 Note:  
-	./CSVtoXML/CSVtoXML.py is where CSVtoXML.py located. 
-	CSVFILEPATH is where the CSV file located. 
-	PICFOLDERPATH is the path to the folder that contains the pictures. (current directory by default)
-	XMLFOLDERPATH is the path to the folder that XML files will be saved to. (current directory by default)
+	./CSVtoXML/CSVtoXML.py is where CSVtoXML.py located.  
+	CSVFILEPATH is where the CSV file located.  
+	PICFOLDERPATH is the path to the folder that contains the pictures. (current directory by default)  
+	XMLFOLDERPATH is the path to the folder that XML files will be saved to. (current directory by default)  
 
 
 ### Example 1:
