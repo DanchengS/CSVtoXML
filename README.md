@@ -1,6 +1,7 @@
 # CSVtoXML
 generate XML file for each jpg picture base on CSV file. 
 
+
 ### Usage:
 ```sh
 $ python ./CSVtoXML/CSVtoXML.py convert CSVFILEPATH PICFOLDERPATH XMLFOLDERPATH
@@ -23,6 +24,10 @@ If on the directory of all jpg files and wants to save xml files to the same fol
 ```sh
 $ python ./CSVtoXML/CSVtoXML.py convert ./csvFolder/sample.csv
 ```
+
+
+### Library used:
+https://github.com/AndrewCarterUK/pascal-voc-writer
 
 
 
